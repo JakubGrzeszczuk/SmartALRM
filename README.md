@@ -10,6 +10,7 @@ Android branch stands for mobile aplication layer used to control the alarm remo
 
 Programming language: Kotlin
 IDE Environment: Android Studio
+
 # Modules used in project:
  Nucleo G070RB
  
