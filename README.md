@@ -8,9 +8,9 @@ Firmware branch represents STM software made in STM32CubeIDE - this branch inclu
 
 Android branch stands for mobile aplication layer used to control the alarm remotely.
 
-Programming language: Kotlin
+Application programming language: Kotlin
 
-IDE Environment: Android Studio
+Application IDE Environment: Android Studio
 
 # Modules used in project:
  Nucleo G070RB
